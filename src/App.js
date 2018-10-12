@@ -19,6 +19,14 @@ class App extends Component {
           >
             Learn React
           </a>
+          <a
+            className="App-link"
+            href="/home"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            TO HOME
+          </a>
         </header>
       </div>
     );
